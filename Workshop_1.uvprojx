@@ -445,6 +445,16 @@
               <FileType>1</FileType>
               <FilePath>.\Fifo.c</FilePath>
             </File>
+            <File>
+              <FileName>task_handler.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\task_handler.h</FilePath>
+            </File>
+            <File>
+              <FileName>task_handler.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\task_handler.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
